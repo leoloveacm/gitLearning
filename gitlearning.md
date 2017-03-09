@@ -37,9 +37,10 @@ leoloveacm geekorange
 
 > git diff<br>
 diff操作是将会比较我们的暂存区的代码和目前在文件夹中没有上传的代码，一般也是在上传或者下载之后开始使用的
-    * git diff head:将目前的和在push的最新版本进行比较
-    * git diff head^ head:比较前一次和前前一次的版本的变化
-    * 除此之外,git diff 还可以比较分支的情况，这个我们后面再继续说
+
+   * git diff head:将目前的和在push的最新版本进行比较
+   * git diff head^ head:比较前一次和前前一次的版本的变化
+   * 除此之外,git diff 还可以比较分支的情况，这个我们后面再继续说
 
 > git add [file]<br>
 这一步是将一个文件加到我们的暂存区中
