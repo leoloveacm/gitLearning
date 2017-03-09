@@ -59,3 +59,16 @@ git reset有三个版本：
 
 ##### GROUP CHANGES
 下面这几个我将在拥有新的账号的时候使用一下
+
+##### REVIEW HISTORY
+下面几个命令是用在回顾的地方
+> git log<br>
+直接可以查询整个项目的提交情况
+
+> git log --follow[file]<br>
+查看一个文件的更新情况
+
+> git show [commit]<br>
+会根据commit的代码来查看对应的提交情况
+
+> git 
